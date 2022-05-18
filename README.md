@@ -19,6 +19,7 @@ The following commands should work on most linux distros that use apt:
 
 ## Already Have Discord Installed?
 You can also install OpenAsar with:
+
     sudo wget -O "$(dirname "$(find / -type f -name build_info.json)")/app.asar" https://github.com/GooseMod/OpenAsar/releases/download/nightly/app.asar
 
 
