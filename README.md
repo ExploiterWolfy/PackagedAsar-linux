@@ -5,11 +5,10 @@
 # BandagedAsar-linux
 
 Discord .deb files included with OpenAsar
-## Other
 
-This was mot made by the owner / dev of
-[OpenAsar](https://openasar.dev/)
-and it does not have anything to do with them.
+## OpenAsar Original Creator
+
+- [GooseMod](https://github.com/GooseMod)
 
 ## How to install
 The following commands should work on most linux distros that use apt:
@@ -19,6 +18,11 @@ The following commands should work on most linux distros that use apt:
     $ sudo apt install BandagedAsar-0_0_17.deb
 
 
-## OpenAsar Original Creator
+## Other
 
-- [GooseMod](https://github.com/GooseMod)
+This was mot made by the owner / dev of
+[OpenAsar](https://openasar.dev/)
+and it does not have anything to do with them.
+
+
+
