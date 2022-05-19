@@ -25,7 +25,7 @@ You can also install OpenAsar with:
 
 ## Other
 
-This was mot made by the owner / dev of
+This was not packaged by the owner / dev of
 [OpenAsar](https://openasar.dev/)
 and it does not have anything to do with them.
 
