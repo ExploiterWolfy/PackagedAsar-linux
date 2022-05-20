@@ -1,5 +1,5 @@
 
-![Logo](https://i.ibb.co/qjRm3pR/Bandaged-Asar-Prototype.png)
+![Logo](https://github.com/ExploiterWolfy/PackagedAsar-linux/blob/main/img/BandagedAsarPrototype.png?raw=true)
 
 
 # BandagedAsar-linux
